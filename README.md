@@ -1,4 +1,4 @@
-# GNSS-lunar-navigation
+# GNSS-for-lunar-navigation
 
 In this project, the orbital software Freeflyer (an object-oriented script with objects and commands) was used to build a simulation of the GPS constellation, the lunar Gateway spacecraft and a lunar ground station in the South Pole of the Moon. Main and side lobes were created for the GPS antenna and their signal availability was analysed through the course of the lunar orbit. (This was my final year project at the University of Bath 2023)
 
