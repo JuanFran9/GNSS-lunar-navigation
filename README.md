@@ -10,5 +10,3 @@ https://github.com/JuanFran9/GNSS-lunar-navigation/assets/58949950/c0df4f63-0131
 
 ![image](https://github.com/JuanFran9/GNSS-lunar-navigation/assets/58949950/00607a6f-274e-44cb-95b2-6eec68713c97)
 
-
-![image](https://github.com/JuanFran9/GNSS-lunar-navigation/assets/58949950/58395787-bf02-41ee-9aa9-27d878326032)
